@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // 6. ENVIAR PARA O WHATSAPP COM CONTEXTO DO PRODUTO (COMPRA RÁPIDA)
     const botoesProduto = document.querySelectorAll('.btn-product-buy');
-    const whatsappBaseUrl = 'https://wa.me/5583988882535'; // Substituir pelo número real se necessário
+    const whatsappBaseUrl = 'https://wa.me/5561999575561'; // Substituir pelo número real se necessário
 
     botoesProduto.forEach(botao => {
         botao.addEventListener('click', function () {
